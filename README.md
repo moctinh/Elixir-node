@@ -9,3 +9,4 @@ docker run -d \
   -p 17691:17690 \
   elixirprotocol/validator:v3
   update: 3.5 aval
+Đã snapshot
